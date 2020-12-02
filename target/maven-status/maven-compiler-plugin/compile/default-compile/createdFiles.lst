@@ -1,0 +1,13 @@
+org/kevinoff/samplecode/samples/StreamingSample.class
+org/kevinoff/samplecode/Application.class
+org/kevinoff/samplecode/JsonInputStreamToIterator.class
+org/kevinoff/samplecode/DotNotationList.class
+org/kevinoff/samplecode/DotNotationMap.class
+org/kevinoff/samplecode/samples/DotNotationMapExample.class
+org/kevinoff/samplecode/CloseableIterator.class
+org/kevinoff/samplecode/DateSerializer.class
+org/kevinoff/samplecode/DateUtil.class
+org/kevinoff/samplecode/JsonProducer.class
+org/kevinoff/samplecode/CalendarSerializer.class
+org/kevinoff/samplecode/NgitwsObjectMapper.class
+org/kevinoff/samplecode/IteratorToInputStream.class
